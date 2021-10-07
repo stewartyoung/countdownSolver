@@ -1,4 +1,4 @@
-package com.stewartyoungio;
+package io.stewartyoung;
 
 import java.util.ArrayList;
 import java.util.List;
